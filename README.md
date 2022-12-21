@@ -26,4 +26,6 @@
 
 - Screenshots and recorded test in Screenshots folder in the project main folder.
 
-- Main.main() has a "runSomeTestCases()" function For Clearing Files and doing some test cases and generating invoice examples 55555 & 66666.  
+- Main.main() has a "runSomeTestCases()" function.
+
+- Uncomment it For Clearing Files and doing some test cases and generating invoice examples 55555 & 66666.  
