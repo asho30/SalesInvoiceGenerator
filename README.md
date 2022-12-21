@@ -20,7 +20,7 @@
 
 - All actions and menus are connected and the application will not close till user choose option 6 to "Close The Application".
 
-- Most invalid inputs and exceptios have been handled.
+- Most invalid inputs and exceptions have been handled.
 
 - CSV files in the project main folder.
 
